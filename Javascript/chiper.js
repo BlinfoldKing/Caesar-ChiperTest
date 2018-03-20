@@ -1,5 +1,5 @@
 const text = 'Hello World' // <--- change this
-const key = 3
+const key = 5
 
 let res = ''
 
@@ -20,6 +20,6 @@ for (let letter of text) {
       res += String.fromCharCode(letter.charCodeAt(0) + k)
     }
   else res += letter
+}
 
-
-console.log(res);
+console.log(res)
