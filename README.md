@@ -22,6 +22,10 @@ Will be added :
 * Lua
 * Rust
 * Haskell
+* C#
+* Typescript
+* Coffescript
+
 
 ### Contributing
 
