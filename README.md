@@ -1,2 +1,4 @@
 # Caesar-ChiperTest
-a caesar chiper test in various language, to learn different syntax of each language
+
+Searching for first/new programming language to learn? 
+Choose the right language for you by see these example of caesar chiper written in various language that may suits you
