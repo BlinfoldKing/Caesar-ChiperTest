@@ -1,9 +1,3 @@
-;;  (defun encrypt (str1 key)
-;;      (loop for letter across str1 do 
-;;          (princ letter)))
-;;  (encrypt "hello " 5)
-
-
 (defun shiftChar (chr key)
     "Encrypting a char based of a following key"
     (setq k (mod key 25))
