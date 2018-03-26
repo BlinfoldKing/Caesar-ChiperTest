@@ -17,4 +17,8 @@
          (setq res (concatenate 'string res (string (shiftChar letter key)))))
     res)
 
-(write-line (encrypt "Hello World" 5))
+(write-line "Input text : ")
+(setq text (read-line))
+(write-line "Input key : ")
+(setq key (parse-integer (read-line)))
+(write-line (encrypt text key))
